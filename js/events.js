@@ -2,7 +2,7 @@
 
 function getIt()
 {
-  $("p").on("keydown", function(key)
+  $('p').on('keydown', function(key)
   {
     if(key.which === 83)
     {
