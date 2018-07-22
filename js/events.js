@@ -2,9 +2,9 @@
 
 function getIt()
 {
-  $("p").on("keypress", function(key)
+  $("p").on("keydown", function(key)
   {
-    if(key.which === 13)
+    if(key.which === 83)
     {
       alert("Hey!")
     }
