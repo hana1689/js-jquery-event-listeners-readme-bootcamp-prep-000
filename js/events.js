@@ -7,7 +7,10 @@ function getIt()
     alert("Hey!")
   })
 }
-function 
+function frameIt()
+{
+  $()
+}
 
 $(document).ready(function(){
 
