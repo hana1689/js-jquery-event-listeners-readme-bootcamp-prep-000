@@ -21,10 +21,15 @@ function submitIt()
     alert('Your form is going to be submitted now.')
   })
 }
+function pressIt()
+{
+  
+}
 
 $(document).ready(function(){
 
 getIt()
 frameIt()
+submitIt()
 
 });
