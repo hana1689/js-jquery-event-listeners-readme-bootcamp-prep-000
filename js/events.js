@@ -27,7 +27,7 @@ function pressIt()
   {
     if(key.which === 71)
     {
-      alert('Success.')
+      alert('G was pressed')
     }
   })
 }
